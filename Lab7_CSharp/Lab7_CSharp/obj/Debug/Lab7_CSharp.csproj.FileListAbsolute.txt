@@ -1,0 +1,12 @@
+E:\C#\Lab7_CSharp\Lab7_CSharp\Lab7_CSharp\bin\Debug\Lab7_CSharp.exe.config
+E:\C#\Lab7_CSharp\Lab7_CSharp\Lab7_CSharp\bin\Debug\Lab7_CSharp.exe
+E:\C#\Lab7_CSharp\Lab7_CSharp\Lab7_CSharp\bin\Debug\Lab7_CSharp.pdb
+E:\C#\Lab7_CSharp\Lab7_CSharp\Lab7_CSharp\obj\Debug\Lab7_CSharp.csprojAssemblyReference.cache
+E:\C#\Lab7_CSharp\Lab7_CSharp\Lab7_CSharp\obj\Debug\Lab7_CSharp.exe
+E:\C#\Lab7_CSharp\Lab7_CSharp\Lab7_CSharp\obj\Debug\Lab7_CSharp.pdb
+E:\C#\Lab7_CSharp\Lab7_CSharp\bin\Debug\Lab7_CSharp.exe.config
+E:\C#\Lab7_CSharp\Lab7_CSharp\bin\Debug\Lab7_CSharp.exe
+E:\C#\Lab7_CSharp\Lab7_CSharp\bin\Debug\Lab7_CSharp.pdb
+E:\C#\Lab7_CSharp\Lab7_CSharp\obj\Debug\Lab7_CSharp.csprojAssemblyReference.cache
+E:\C#\Lab7_CSharp\Lab7_CSharp\obj\Debug\Lab7_CSharp.exe
+E:\C#\Lab7_CSharp\Lab7_CSharp\obj\Debug\Lab7_CSharp.pdb
